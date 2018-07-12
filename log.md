@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 12, 2018 
+### Day 1: July 12, 2018 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Continued work on a classifieds app I'm building with AngularJS. Worked with the directivces ng-if, ni-hide and ng-show. 
