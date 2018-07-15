@@ -17,3 +17,11 @@
 
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) & https://leetcode.com/submissions/detail/163620089/
 
+### Day 3: July 14, 2018 
+####
+**Today's Progress**: Created a factory for $http requests in order to access Data more easily throughout my NG-Classifieds app
+
+**Thoughts:** factories seem to make data access a bit more easy for app building. 
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
+
+
