@@ -9,6 +9,7 @@
 
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds)
 
+
 ### Day 2: July 13, 2018 
 ####
 **Today's Progress**: Worked on a coding challenge at leetcode and did some more work with my NG-Classifieds app
@@ -16,6 +17,7 @@
 **Thoughts:** I'm a bit rusty at solving coding challenges so it took me a while to get this figured out. I just used a couple of for loops. 
 
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) & https://leetcode.com/submissions/detail/163620089/
+
 
 ### Day 3: July 14, 2018 
 ####
@@ -25,3 +27,9 @@
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
 
 
+### Day 4: July 15, 2018 
+####
+**Today's Progress**: Created and styled a sidenav for my ng-classifieds app. Styled with angular-material and added open and close functionality with built in services. 
+
+**Thoughts:** material makes things much easier! 
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
