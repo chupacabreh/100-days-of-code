@@ -33,3 +33,10 @@
 
 **Thoughts:** material makes things much easier! 
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
+
+### Day 5: July 16, 2018 
+####
+**Today's Progress**: Added the ability to save new classifieds to the app. Right now it's all on the front end side so the data is lost with each refresh. Will add backend with firebase soon! Added some more cool visual florishes with angular-material as well!
+
+**Thoughts:** yee!
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
