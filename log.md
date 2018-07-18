@@ -40,3 +40,10 @@
 
 **Thoughts:** yee!
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
+
+### Day 6: July 17, 2018 
+####
+**Today's Progress**: Created functions to add the ability to edit classifieds in ng-classifieds app! 
+
+**Thoughts:** yee!
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
