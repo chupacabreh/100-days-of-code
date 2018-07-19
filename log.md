@@ -47,3 +47,11 @@
 
 **Thoughts:** yee!
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
+
+### Day 7: July 18, 2018 
+####
+**Today's Progress**: Added ability to delete classified listings. Used a nice confirm modal supplied by angular-material.
+
+**Thoughts:** yee!
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
+
