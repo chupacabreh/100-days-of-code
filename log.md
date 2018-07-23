@@ -55,3 +55,10 @@
 **Thoughts:** yee!
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
 
+### Day 8: July 18, 2018 
+####
+**Today's Progress**: Had a short lull but back and better than ever. Added the ability to filter through classifieds. 
+
+**Thoughts:** sorting through json with a for loop inside a for loop; interesting!
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
+
