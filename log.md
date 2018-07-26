@@ -62,3 +62,18 @@
 **Thoughts:** sorting through json with a for loop inside a for loop; interesting!
 **Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
 
+### Day 9: July 24, 2018 
+####
+
+**Today's Progress**: Bartended till 1am last night. I had class this morning 9-1pm. Volunteered with @hackthehood from 1:15 - 4pm. Now I bartend from 5 pm till who knows. Still found time code. Added animation to search bar and listings with angular-material. #100DaysOfCode
+
+**Thoughts:** so tired!
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
+
+### Day 10: July 25, 2018 
+####
+
+**Today's Progress**: messed around with ui-router!
+
+**Thoughts:** great way to clearn up the code and have an app neatly indexed
+**Link to work:** [NG-Classifieds](https://github.com/chupacabreh/ng-classifieds) 
